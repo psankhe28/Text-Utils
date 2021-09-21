@@ -14,6 +14,3 @@ Text utils is a collection of useful text processing utilities.All text tools ar
 - REACT JS
 - BOOTSTRAP
 
-## Preview
-
-- Do checkout: https://psankhe28.github.io/Text-Utils/
