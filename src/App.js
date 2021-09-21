@@ -48,7 +48,7 @@ function App() {
           <Route exact path="/about">
             <About mode={mode} />
           </Route>
-          <Route exact path="/">
+          <Route exact path={["/", "/Text-Utils/"]}>
           <TextForm showAlert={showAlert} heading="Enter the text you wanna analyze" mode={mode}/>
           </Route>
         </Switch>
